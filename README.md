@@ -17,3 +17,7 @@ Teresa Moser
   in Rigby, Idaho with goodly parents and four siblings. I was taught a good work ethic
   and learned that I could try to fix anything and if I couldn't fix it, get an expert. 
 
+Bethany Steiner:
+My name is Bethany Steiner. I am from Kaysville, Utah. I've taken an interest in Computer Science,
+and learning more about to see if I want to make it me major. I've learned C++
+and for some reason I feel like it's easier for me than Python.
